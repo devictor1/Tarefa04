@@ -1,1 +1,1 @@
-Tarefa 04 do Terceiro Semestre dee ADS na Faculdade Flamingo, aprendendo JAVA.
+Tarefa 04 do Terceiro Semestre de ADS na Faculdade Flamingo, aprendendo JAVA.
